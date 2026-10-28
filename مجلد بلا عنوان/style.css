@@ -1,0 +1,14 @@
+css
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+input:focus,
+textarea:focus {
+    outline: 2px solid #a4773e;
+    border-color: transparent;
+}
